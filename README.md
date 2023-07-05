@@ -6,4 +6,4 @@ PyTorch: https://pytorch.org/get-started/locally/ and PPO Algorithm: https://sta
 Reinforcement Learning. The results were not uploaded.
 
 
-![image](https://github.com/slarionne/Doom-AI/assets/15343933/ef3ab6d3-4b27-4833-91d1-22488d7a4d95)
+[![image](https://github.com/slarionne/Doom-AI/assets/15343933/ef3ab6d3-4b27-4833-91d1-22488d7a4d95)](https://store.steampowered.com/app/2280/DOOM_1993/)https://store.steampowered.com/app/2280/DOOM_1993/
